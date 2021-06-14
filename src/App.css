@@ -4,12 +4,13 @@
 .App {
   display: flex;
   flex-wrap: wrap;
-  background-color: indigo;
+  background-color: #182c34;
   width: 100%;
   min-height: 20vh;
   font-size: calc(7px + 2vmin);
   color: white;
   margin: 50px;
+  padding: 30px;
 }
 
 .App-logo {
